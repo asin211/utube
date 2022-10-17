@@ -1,0 +1,34 @@
+body {
+  /* background-color: #454545;  */
+}
+.nav-container {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid gray;
+  margin-inline: 10px;
+}
+.heading {
+  text-align: center;
+  font-size: 35px;
+  padding-left: 40px;
+  font-style: italic;
+}
+.nav-button-container {
+  margin-left: auto;
+  padding-right: 40px;
+}
+.form-container {
+  display: flex;
+  /* margin-inline: -8px; */
+}
+.search {
+  flex: 1;
+  padding: 4px;
+  height: 35px;
+  font-size: 20px;
+  padding-left: 10px;
+  border-radius: 5px;
+  margin: 30px;
+  border: 1px solid gray;
+}
+
